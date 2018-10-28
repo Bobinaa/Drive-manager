@@ -1,0 +1,10 @@
+M:\Проекты Visual Studio\DVD open\DVD open\bin\Debug\DVD open.exe.config
+M:\Проекты Visual Studio\DVD open\DVD open\bin\Debug\DVD open.exe
+M:\Проекты Visual Studio\DVD open\DVD open\bin\Debug\DVD open.pdb
+M:\Проекты Visual Studio\DVD open\DVD open\obj\Debug\DVD_open.Form1.resources
+M:\Проекты Visual Studio\DVD open\DVD open\obj\Debug\DVD_open.Properties.Resources.resources
+M:\Проекты Visual Studio\DVD open\DVD open\obj\Debug\DVD open.csproj.GenerateResource.Cache
+M:\Проекты Visual Studio\DVD open\DVD open\obj\Debug\DVD open.exe
+M:\Проекты Visual Studio\DVD open\DVD open\obj\Debug\DVD open.pdb
+M:\Проекты Visual Studio\DVD open\DVD open\obj\Debug\DVD open.csprojResolveAssemblyReference.cache
+M:\Проекты Visual Studio\DVD open\DVD open\obj\Debug\DVD open.csproj.CoreCompileInputs.cache
